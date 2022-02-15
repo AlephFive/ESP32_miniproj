@@ -1,6 +1,10 @@
 # ESP32_miniproj
 The code is written for the ESP32 TTGO T-display. This project displays a gradually dropping paragraph of text.
 
+This was a part of a larger collaborative installation at Barnard.
+
+[![Barnard Installation Video](https://img.youtube.com/vi/AR0eMbk_z5M/0.jpg)](https://www.youtube.com/watch?v=AR0eMbk_z5M)
+
 
 ## How to run:
 
