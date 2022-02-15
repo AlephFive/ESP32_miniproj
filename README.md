@@ -23,3 +23,8 @@ After that, go to "Tools/Board:" and select "TIGO T1".
 ![BoardSelect](https://user-images.githubusercontent.com/6265129/153997616-e5988c80-6d34-4566-b800-3d8c03f9ffd7.jpg)
 
 Now, simply connect your board and click upload.
+
+
+## Additional Notes:
+
+If you want to use this in an installation, you can plug in a battery using the JST connector on the back of the ESP32.
