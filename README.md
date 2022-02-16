@@ -1,4 +1,7 @@
 # ESP32_miniproj
+
+http://brian.ma/blog/art/2022/02/15/falling-text.html
+
 The code is written for the ESP32 TTGO T-display. This project displays a gradually dropping paragraph of text.
 
 https://user-images.githubusercontent.com/6265129/154185131-5a4258be-ddf0-455a-b4b7-091b91f6ebf8.mp4
