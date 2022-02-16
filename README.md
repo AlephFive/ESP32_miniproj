@@ -1,10 +1,11 @@
 # ESP32_miniproj
 The code is written for the ESP32 TTGO T-display. This project displays a gradually dropping paragraph of text.
 
+https://user-images.githubusercontent.com/6265129/154185131-5a4258be-ddf0-455a-b4b7-091b91f6ebf8.mp4
+
 This was a part of a larger collaborative installation at Barnard.
 
 [![Barnard Installation Video](https://img.youtube.com/vi/AR0eMbk_z5M/0.jpg)](https://www.youtube.com/watch?v=AR0eMbk_z5M)
-
 
 ## How to run:
 
@@ -32,3 +33,5 @@ Now, simply connect your board and click upload.
 ## Additional Notes:
 
 If you want to use this in an installation, you can plug in a battery using the JST connector on the back of the ESP32.
+
+![PXL_20220210_154113308](https://user-images.githubusercontent.com/6265129/154185209-a523bf1a-9b12-49f9-9e1e-5e5a65d2de6a.jpg)
